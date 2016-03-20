@@ -1,5 +1,4 @@
 # stunning-octo-waffle
 
 Hi Humans!
-
-my empire of**DOOM**begins now.
+my empire of **DOOM** begins now.
